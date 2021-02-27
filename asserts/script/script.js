@@ -20,7 +20,6 @@ for (let i = 0; i < h; i++){
 	}
 }
 
-
 let flag = true;
 let change = button.querySelector("p");
 
