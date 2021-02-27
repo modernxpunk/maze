@@ -1,7 +1,7 @@
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext('2d');
 
-const sizeCell = 3;
+const sizeCell = 2;
 
 const step = "black";
 const wall = "#383a59";
