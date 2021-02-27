@@ -1,12 +1,12 @@
 # maze
 ### python
 ```
-m = maze(300, 130)
+m = maze(w, h)
 m.generate()
 m.solve()
 m.makeFile()
 ```
-![](https://github.com/modernxpunk/maze/blob/main/generated.png?raw=true)
+![](https://github.com/modernxpunk/maze/blob/main/maze.png?raw=true)
 
 ### javascript
 take maze.json then draw with canvas
