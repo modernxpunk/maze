@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	background-color: #282a36;
+	margin: 0;
+	padding: 0;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 0 20px black;
+}
+
+#button {
+    cursor: pointer;
+    background-color: #bd93f9;
+    border-radius: 70px;
+    margin: 10px 50px;
+}
+
+p {
+    display: inline-block;
+    font-family: 'Abril Fatface', cursive;
+    padding: 0 64px;
+    font-size: 32px;
+}
